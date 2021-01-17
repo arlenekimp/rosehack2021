@@ -77,8 +77,8 @@ background-color: rgb(57, 197, 207);
 .start
 {
     text-align: center;
-    font-size: 50px;
-    border-radius: 100px;
+    font-size: 40px;
+    border-radius: 50px;
     text-align: center;
     margin: 50px ;
     padding: 10px;
@@ -93,19 +93,22 @@ background-color: rgb(57, 197, 207);
 .inputform
 {
     text-align: center;
-    /* margin: 100px 350px; */
-    /* padding: 30px; */
+     margin: 100px 350px; 
+     padding: 30px; 
 
 }
 
 .intro
 {
-    background-color: rgb(198, 182, 250);
+    background-color: rgb(172, 155, 226);
     color: white;
     margin: 15px;
     padding: 15px;
     font-size: 20px;
     border-radius: 15px;
+    margin: 50px;
+    margin-left: 230px;
+    margin-right: 230px;
     text-align: center;
 }
 
@@ -130,7 +133,8 @@ background-color: rgb(57, 197, 207);
 {
     background-color: rgb(198, 182, 250);
     border-radius: 30px;
-    margin: 0px 100px;
+    margin: 0px 100px; 
+    margin: 50px;
 }
 .cols-2 button {
 
